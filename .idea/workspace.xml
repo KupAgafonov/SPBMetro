@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c92b1fcc-7ae2-49df-ad93-860ac0d306f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Company/Company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/DirectoryCopy/DirectoryCopy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/DirectorySizeCounter/DirectorySizeCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/Fibonachi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/out/production/Fibonachi/Fibonachi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Fibonachi/src/Fibonachi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Hibernate/Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/MSKMetro/MSKMetro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/SPBMetro/SPBMetro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/ParseLentaru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/feature_9b97c3fbf1bd2b2b9a6938395552275b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_0729df63b3cd6b71826d5b7c4538bcc9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_0777fd3bd25eb14b1e254bbfb3c45f24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_11d3dd58fdd7a44f2881f591e995d9e5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_2025a86cdb53eafcf200ca1d0a9c6eb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_24c52b803d3cee02a7a674d4999e2321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_24cb44e19db5c36479753b091752a4de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_32209bf732fe8469761caeed11f2cb06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_377527a64334d8267e4540526c941d2f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_39b1179d9fdd3c5e7bfa7b7c624833db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_453f12da408a06db72bdbaa78f615b4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_4d6272d6ea56c501c22f24ff57cc6b7e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_537d449cb80dbbd8c852cebdca6ca699.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_61b7eada3ae9fae0045a2d13e6f82dbd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_641bbc3144fb7a291f7f6aa2bdf87ed3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_64852139cf3ffa24e4283fc7e924cb51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_64b2fd8d1674394a50a1485aaf2989b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_6c279e56456fa41bd8d3672b999c4d03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_793193a3f7385201901ec487b7be1bab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_83fa4d5ec85d2e37d0e4e3686b14218c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_867dec89ca70c871e99d9dd0ea510094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_8ad7f8b67463f49fea480bfd9957d271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_923431a4f1d725a073079f37a857bc67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_94dd36815b828db86cf29ff95aaf9668.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_95a1d1a17408437f4633f9bc0888f2ac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_a0d41b1325a261f72984968fd9ea330c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_a9fbc2e6d44b787e61f4f072fd7aaef4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_b1f22d8931686a6cec3a54a19decf415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_b9e68f203b60b4c4d3e22fbf78290ef0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_d2ef693e4074c4306f7bbcb2b1ea2747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_d31a98ce1d68ac6016bca4e57aea045e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_d4b8eb6bfa8ec644ba17a6817d70d23f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_dac25568e56d5736c310d99f0e6e793b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_dcbda8bacade8bf6d70096b3d6a2e486.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_e365ea18aacfccbf5cdbefa8f8882e94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_e419099ecd4d55add503f25a6db720d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_e4c2a93e2420b57ff0e2068b16e7f359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_eac3f12e2440103b64602caa0765147b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_f367bbd0633889bd519644d70def4a0d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_f528f117572ca08c8c3e37b3d5294c36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/tabloid_f7d2a1b4ad30aef2c236adee92885b19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_09719629e1768807747fec076b32a370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_0dbbd45d2eabed7a678581980b1b5dea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_0f88ee8cc47eae1fda7d5b2030b5ed0d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_2003815960e64944df6b08cf77f836ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_217625692cb7767f366036e49b3d299f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_29792e4027b9bde3c117c1863ed69ca0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_2ef65eb1f861073290184ec6b9fe94f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_325056c2dee35c11f72b319aa09bfd7d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_3a551c63fe1d9d6487d4ac383568195b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_43b6e81c9bc84cd2e4a83db11007b01d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_4730f5249999337a262c0db14d990a64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_4eb1033838327654c52fa69374c88b7c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_58cc6ff15fd7381ea67c1455aed64dbb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_59f525649b1595bc81372c29cec46bcb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_5e18292eb4ba4c0e217e30eb90279a13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_5e2f51077440c64c683e3c5f27412132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_697ad5036be7f5a06d61ea2faad972dc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_6cf12f15a11447d4bf6b1d0715bfbb34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_791954d04e5ed5145a135ba395fae4db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_b9cf6e2f3bf3547420f2e08cae2fc359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_bb06e10f5bd51b8e19455815eca5776e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_c04cb468fed792cf346e747420ed33d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_c41d10c55a5986fe00c3a9c91db1a6f0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_e4c968f38b3c3ecad5c3d02514306373.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_ea439d229f96cf2367ee5838af94da8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_f40d75b1bfc095456466498a6e107bd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/data/top7_f42f10e86a120c16fbea416dacfbc99e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParseLentaru/src/main/resources/logs/errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/SearchCarNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/GenerateResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/SearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/TelephoneBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_metro_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RouteCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StationIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logs/exceptions.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logs/input_errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logs/search.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RouteCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Ages/Ages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/BEP_Incom/IncomeCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Booleans/Booleans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Cat/Cat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/CodeAlphabet/CodeAlphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Container/Container.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ContainerCycleWhile/ContainerCycleWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Cycles/Cycles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MathRandom/MathRandom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Max_Value/Max_Value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RegexFIO/RegexFIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Regular_fio/Regular_fio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ReverseArray/ReverseArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RoadCamera/RoadCamera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RoadController/RoadController.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/StringExperiments/StringExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/String_Class/StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Ticket/Ticket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/VarProject/VarProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/WhileCycle/WhileCycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/regexWords/regexWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ticketWhile/ticketWhile.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oJ0FsVi4y3iBbDpfPpd4dkSPcj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="json_metro_calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="json_metro_calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RouteCalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92b1fcc-7ae2-49df-ad93-860ac0d306f6" name="Default Changelist" comment="" />
+      <created>1612989287980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612989287980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
